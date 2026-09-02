@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.TheFriendsLedger",
+        "sha256_cert_fingerprints": ["7E:92:5F:96:DC:E2:EB:B0:D8:69:57:8E:E7:E8:44:2A:29:F0:21:EA:C7:D2:2A:78:A6:84:4D:F4:E6:6F:94:C8"]
+      }
+    }]
